@@ -22,7 +22,7 @@ The 4)
 Model_LDA.ipynb
 Model_RF.ipynb
 Models_KNN.ipynb
-Models_SVM.ipynb which is composed of the methods seen in class with E.Gallic with LDA, Random Forest, KNN and SVM
+Models_SVM.ipynb which are composed of the methods seen in class with E.Gallic with LDA, Random Forest, KNN and SVM
 
 
 the original database was sent by we transfer, this is the file : opioid_use_data.csv
