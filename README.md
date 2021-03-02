@@ -12,7 +12,7 @@ Data pre-processing.ipynb used to clean the database and to do descriptives stat
 For the USA map : use also the database : "usa_states.csv"
 
 The 2)
-selection de variables -2-3.ipynb which is composed of the methods seen in class with S. Laurent with Lasso, Ridge, PCA, Elastic Net
+selection de variables -2.ipynb which is composed of the methods seen in class with S. Laurent with Lasso, Ridge, PCA, Elastic Net
 Forward_final.ipynb with Forward method
 
 The 3)
